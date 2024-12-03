@@ -10,7 +10,7 @@ color:paleturquoise;
 
 h2{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    color:ivory
+    
 }
 
 .projects { 
@@ -54,7 +54,7 @@ border-radius: 25%;
             line-height: 125%;
          }
             .about img {
-            width: 13px;
+            width: 150px;
             height: 200px;
             border-radius: 25%;
             border: 2px solid rgb(126, 14, 201);
